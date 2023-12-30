@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajeetkumarrauniyar" alt="ajeetkumarrauniyar" /></a> </p>
 
-- 🔭 I’m currently working on **Supermarket Website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **E-commerce Webapp using MERN**
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, React.js, MySQL, MongoDB, Mongoose, Node.js, Express.js, Material UI, PHP, Wordpress, Figma**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, React.js, MySQL, MongoDB, Mongoose, Node.js, Express.js, Material UI, PHP, Wordpress, Figma, Tailwind CSS**
 
 - 📫 How to reach me **rauniyarajeet5487@gmail.com**
 
