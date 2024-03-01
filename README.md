@@ -174,7 +174,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <!--h2 without bottom border-->
 <div id="user-content-toc">
     <ul align="center">
-        <summary><h2 style="display: inline-block">Connect With Me</h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></summary>
+        <summary><h2 style="display: inline-block">Connect With Me</h2><span><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></span></summary>
     </ul>
 </div>
 
@@ -184,7 +184,6 @@ Sunday       91 commits     ███████░░░░░░░░░░�
     <a href="https://www.linkedin.com/in/ajeetkumarrauniyar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
     <a href="https://twitter.com/Ajeet_Kumar5487" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
-----
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeetkumarrauniyar&label=Profile%20views&color=0e75b6&style=flat" alt="ajeetkumarrauniyar" /> </p>
 
