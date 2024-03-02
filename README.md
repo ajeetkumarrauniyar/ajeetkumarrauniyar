@@ -18,24 +18,16 @@
 <br>
 
 - 🌱 A passionate Self-taught Front-end developer
-
-- 🔭 I’m currently working on **React, Nodejs, MongoDB, MySQL, WordPress**
-
-- 🌱 I’m currently learning **ReactJS**
-
 - 😄 Pronouns: He/Him
+- 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean.
+- 📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.
+- 🌐 Team Ups: Open to collaboration, job or internships! Frontend? Backend? Full-Stack? Let's explore both universes.
+- 🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!
+- 📫 Reach me out: At **rauniyarajeet5487@gmail.com**
+- 🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+<!-- 📝 I regularly write articles on <a href="http://example.com/" target="_blank">Hashnode</a>-->
+<!-- 🏠 Also We've a tech community called <a href="http://example.com/" target="_blank">Hashnode</a>. -->
 
-- 📝 I regularly write articles on <a href="http://example.com/" target="_blank">Hashnode</a>
-
-- Check my <a href="http://example.com/" target="_blank">Portfolio</a>.
-
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, React.js, MySQL, MongoDB, Mongoose, Node.js, Express.js, Material UI, PHP, Wordpress, Figma, Tailwind CSS**
-
-- 📫 Feel free to reach me out **rauniyarajeet5487@gmail.com**
-
-- 🏠 Also We've a tech community called <a href="http://example.com/" target="_blank">Hashnode</a>.
-
-- I’m currently open for an Intern or a new job opportunity, Do check <a href="http://example.com/" target="_blank">my Resume</a>.
 
 <!--Intro end-->
 
@@ -43,32 +35,28 @@
 
 <div id="user-content-toc">
     <ul align="center">
-      <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+      <summary>## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+        <h2 style="display: inline-block"><b>Technologies That I Know &nbsp;👨🏻‍💻</b></h2></summary>
     </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+        <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,js,md,materialui,mongodb,mysql,nodejs,postman,react,redux,tailwind,vscode&perline=14" />
     </a>
 </p>
 <br><br>
 
-<!-- Skills Start -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<br>
-
+<!-- Skills Start 
 <p align="center">
 
 - **Languages**:
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     <!-- ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
-  <br>
+  <!--<be>-->
 
-- **Front-End Development**:
+<!--**Front-End Development**:
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -87,14 +75,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
-<br>
+<!--<br>-->
 
-- **Extras**:
+- <!--**Extras**:
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
-</p>
-<!-- Skills End -->
+<!--</p> Skills End -->
 <br>
 <br>
 
