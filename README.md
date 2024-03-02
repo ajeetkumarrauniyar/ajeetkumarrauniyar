@@ -15,7 +15,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>**About Me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<br>
 
 - 🌱 A passionate Self-taught Front-end developer
 - 😄 Pronouns: He/Him
@@ -30,22 +29,17 @@
 
 
 <!--Intro end-->
-
 <br>
 
-<ul align="left">
-        <span><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-            <h2 style="display: inline-block"><b>Technologies That I Know &nbsp;👨🏻‍💻</b></h2>
-        </span>
-</ul>
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"></picture> **Technologies That I Know** 👨🏻‍💻
+
 <!--tech stack icons-->
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,js,md,materialui,mongodb,mysql,nodejs,postman,react,redux,tailwind,vscode&perline=14" />
+        <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,js,md,materialui,mongodb,mysql,nodejs,postman,react,redux,tailwind,vscode&perline=9" />
     </a>
 </p>
-<br><br>
-
+<br>
 <!-- Skills Start 
 <p align="center">
 
@@ -76,20 +70,16 @@
 
 <!--<br>-->
 
-- <!--**Extras**:
+<!--**Extras**:
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
 <!--</p> Skills End -->
-<br>
-<br>
-
----
 
 <!--- stats & Trophy (start) -->
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
 <p align="center">
     <!--- stats (start) -->
     <table align="center">
@@ -105,20 +95,20 @@
         </tr>
     </table>
   <!--- stats (end) -->
-  
+  <br>
   <!--- trophy (start) -->
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ajeetkumarrauniyar&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
   </div>
-  <!--- trophy (start) -->
+  <!--- trophy (end) -->
 </p>        
 <!--- stats (end) -->
-
+<br>
 <!--START_SECTION:waka-->
 
-**I'm a Night 🦉**
+## **I'm a Night** 🦉
 
 ```text
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
@@ -128,7 +118,7 @@
 
 ```
 
-📅 **I'm Most Productive on Sunday**
+## 📅  **I'm Most Productive on Sunday**
 
 ```text
 Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71%
@@ -151,22 +141,18 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Different ways to authenticate your APIs](https://example.com/)
+- Coming Soon..
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h2 style="display: inline-block">Connect With Me</h2><span><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></span></summary>
-    </ul>
-</div>
+## **Connect With Me** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
 <!--Social Links-->
-<p align="center">
+<p align="left"
     <a href="https://www.linkedin.com/in/ajeetkumarrauniyar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
     <a href="https://twitter.com/Ajeet_Kumar5487" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
