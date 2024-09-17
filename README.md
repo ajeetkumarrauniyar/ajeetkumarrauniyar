@@ -120,6 +120,7 @@
 
 ## **I'm a Night** 🦉
 
+```
 <!-- GitHub API integration -->
 <script>
   const githubApiUrl = 'https://api.github.com/repos/ajeetkumarrauniyar/ajeetkumarrauniyar/commits';
@@ -179,7 +180,7 @@
 
   fetchCommits();
 </script>
-
+```
 <!-- Dynamic chart generated based on GitHub API data -->
 <div id="github-chart"></div>
 
