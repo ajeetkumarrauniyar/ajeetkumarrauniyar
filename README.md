@@ -118,6 +118,71 @@
 
 ```
 
+## **I'm a Night** 🦉
+
+<!-- GitHub API integration -->
+<script>
+  const githubApiUrl = 'https://api.github.com/repos/ajeetkumarrauniyar/ajeetkumarrauniyar/commits';
+  const timePeriods = {
+    Morning: 0,
+    Daytime: 0,
+    Evening: 0,
+    Night: 0,
+  };
+
+  async function fetchCommits(page = 1) {
+    try {
+      const response = await fetch(`${githubApiUrl}?page=${page}`);
+      const data = await response.json();
+
+      await processCommits(data);
+
+      if (data.length === 100) {
+        await fetchCommits(page + 1);
+      } else {
+        renderChart();
+      }
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
+  async function processCommits(commits) {
+    for (const commit of commits) {
+      const commitDate = new Date(commit.commit.author.date);
+      const hour = commitDate.getUTCHours() + 5 + (commitDate.getUTCMinutes() < 30 ? 0 : 1);
+      let timePeriod;
+
+      if (hour >= 6 && hour < 12) {
+        timePeriod = 'Morning';
+      } else if (hour >= 12 && hour < 18) {
+        timePeriod = 'Daytime';
+      } else if (hour >= 18 && hour < 22) {
+        timePeriod = 'Evening';
+      } else {
+        timePeriod = 'Night';
+      }
+
+      timePeriods[timePeriod]++;
+    }
+  }
+
+  function renderChart() {
+    const chartHtml = Object.keys(timePeriods).map(timePeriod => {
+      const percentage = ((timePeriods[timePeriod] / Object.values(timePeriods).reduce((a, b) => a + b, 0)) * 100).toFixed(2);
+      return `
+        ${timePeriod}    ${timePeriods[timePeriod]} commits     ████${'░'.repeat(Math.floor(percentage / 2))}░░░░░░░░░░░░░░░░   ${percentage}%`;
+    }).join('\n');
+
+    document.getElementById('github-chart').innerHTML = chartHtml;
+  }
+
+  fetchCommits();
+</script>
+
+<!-- Dynamic chart generated based on GitHub API data -->
+<div id="github-chart"></div>
+
 ## 📅  **I'm Most Productive on Sunday**
 
 ```text
@@ -161,4 +226,4 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 Credit: [Ajeet Kumar](https://github.com/ajeetkumarrauniyar/)
 
-Last Edited on: 01/03/2024
+Last Edited on: 18/09/2024
