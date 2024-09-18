@@ -108,7 +108,7 @@
 <br>
 <!--START_SECTION:waka-->
 
-## **I'm a Night** 🦉
+<!--## **I'm a Night** 🦉
 
 ```text
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
@@ -120,9 +120,8 @@
 
 ## **I'm a Night** 🦉
 
-```
-<!-- GitHub API integration -->
-<script>
+GitHub API integration -->
+<!--<script>
   const githubApiUrl = 'https://api.github.com/repos/ajeetkumarrauniyar/ajeetkumarrauniyar/commits';
   const timePeriods = {
     Morning: 0,
@@ -179,10 +178,10 @@
   }
 
   fetchCommits();
-</script>
-```
+</script>-->
+
 <!-- Dynamic chart generated based on GitHub API data -->
-<div id="github-chart"></div>
+<!--<div id="github-chart"></div>-->
 
 ## 📅  **I'm Most Productive on Sunday**
 
