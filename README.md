@@ -16,11 +16,11 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🌱 A passionate Self-taught Front-end developer
+- 🌱 A passionate Self-taught Full-stack developer
 - 😄 Pronouns: He/Him
 - 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean.
-- 📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.
-- 🌐 Team Ups: Open to collaboration, job or internships! Frontend? Backend? Full-Stack? Let's explore both universes.
+- 📘 Current Quest: Harnessing the power of React.js & Next.js, but feeling the allure of the backend mysteries.
+- 🌐 Team-Ups: Open to collaboration, job, or internships! Frontend? Backend? Full-Stack? Let's explore both universes.
 - 🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!
 - 📫 Reach me out: At **rauniyarajeet5487@gmail.com**
 - 🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
@@ -43,34 +43,35 @@
 <!-- Skills Start 
 <p align="center">
 
-- **Languages**:
+**Languages**:
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     <!-- ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
   <!--<be>-->
-
-<!--**Front-End Development**:
+**Front-End Development**:
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+  
 <br>
 
-- **Cloud Hosting**:
+**Cloud Hosting**:
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Netlify]()
+  ![Vercel]()
+  
+<br>  
 
-<br>
-
-- **Softwares and Tools**:
+**Softwares and Tools**:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
-<!--<br>-->
+<br>
 
-<!--**Extras**:
+**Extras**:
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
@@ -198,15 +199,15 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+<!--⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.-->
 
 ---
 
-### 📕 My Latest Blog posts:
+<!--### 📕 My Latest Blog posts:-->
 
 <!-- BLOG-POST-LIST:START -->
 
-- Coming Soon..
+<!--- Coming Soon..-->
 <!-- BLOG-POST-LIST:END -->
 
 ---
